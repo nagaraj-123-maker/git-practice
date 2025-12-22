@@ -1,0 +1,13 @@
+{
+    "operation": "create",
+    "payload": {
+      "TableName": "bookstore",
+      "Item": {
+        "bookid": 443,
+        "author": "aarvi",
+        "bookname": "AWS & Devopsmaster",
+        "Location": "India",
+        "State": "Karnataka"
+      }
+    }
+  }
