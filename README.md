@@ -2,4 +2,3 @@
 For initial practice
 Devops Practice session started
 Failure is a key to success
-
